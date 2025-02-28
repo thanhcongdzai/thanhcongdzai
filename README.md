@@ -1,2 +1,2 @@
-# I'am Nguyễn Tiến Thành Công
+# Nguyễn Tiến Thành Công
 ### Software developer
